@@ -1,37 +1,35 @@
 ![DAOhaus Splash](https://raw.githubusercontent.com/odyssy-automaton/daohaus-web/develop/src/assets/daohaus__hero--falling.png)
 
-# HausDAO DAO Agreement
+# HausDAO
 
-## DAOhaus Manifesto
+## Manifesto
 
-DAOhaus is a platform built by the people, for the people. At its core, DAOhaus looks to empower anyone adding value to the DAOhaus ecosystem, regardless of their social status or previous accolades.
+[DAOhaus](https://daohaus.club/) is a platform built by the people, for the people. At its core, DAOhaus looks to empower anyone adding value to the DAOhaus ecosystem, regardless of their social status or previous accolades.
 
-The core ethos of DAOhaus is to create a truly self-sustainable protocol with integrity at heart. Community should always be prioritized over capital.
+The core ethos of DAOhaus is to create a truly self-sustainable protocol with integrity at heart. [Community should always be prioritized over capital](https://github.com/metacartel/mission/blob/master/community-first-manifesto.md).
 
-The drive to create a truly open ecosystem is one which will take form with time. At inception, DAOhaus will establish the DAOhaus DAO - the governing entity responsible for allocating funding and distributing HAUS tokens.
+The drive to create a truly open ecosystem is one which will take form with time. At inception, DAOhaus will establish the DAOhaus DAO - the governing entity responsible for allocating funding for DAOhaus development and distributing `HAUS` tokens to contributors.
 
-**The DAOhaus DAO is the core vehicle for all fundraising, token distributions and governance decisions.**
+**The DAOhaus DAO is the core vehicle for all fundraising, token distributions, and governance decisions.**
 
 The DAOhaus DAO is built off the following principles:
 
-- **Freedom of Choice** - Enter and exit as your please
-- **Freedom of Work** - Collaboration is encouraged and necessary
+- **Freedom of Choice** - Enter and exit as your please.
+- **Freedom of Work** - Collaboration is encouraged and necessary.
 - **Freedom of Power** - No one person or persons own the DAOhaus DAO. Those with the most “influence” are those who are adding the most value.
-- **Freedom of Access** - Anyone adding value should receive DAO shares
-- **Freedom of Pay** - Anyone holding DAO shares may submit a funding proposal
+- **Freedom of Access** - Anyone adding value should receive DAO shares.
+- **Freedom of Pay** - Anyone holding DAO shares may submit a funding proposal.
 - **Freedom of Opinion** - Not all opinions will be unanimous. We encourage people to speak up and challenge any initiative or proposal which goes against the core ethos of DAOhaus.
 
 ### `HAUS` Mentality
 
-`HAUS` is the underlying fuel of the DAOhaus ecosystem. `HAUS` does not hold initial governance rights but has 100% of the future product value.
+`HAUS` represents community support for DAOhaus.
 
-To this, decisions regarding `HAUS` and it’s distributions should be made very cautiously. Participants should acknowledge that `HAUS` is not something to be rushed, and that it’s distribution, allocations and uses should evolve over time to ensure that new participants always have a fair way to capture upside from future protocol growth.
-
-Owning `HAUS` does not mean that you are entitled to DAO shares. DAO shares can only be earned through continued value-added actions and represent the right to govern HAUS and it’s future.
+Your contributions will support the development of DAOhaus. You can Rage-quit a proportional share of your remaining `DAI` contribution at any time. Once the `DAI` contributed to the HausDAO is spent, when you Rage-quit you'll receive `HAUS` tokens proportional to the amount of your capital which has been drawn down. `HAUS` tokens do not entitle you to anything. Owning `HAUS` does not mean that you are entitled to DAO shares. DAO shares can only be earned through continued value-added actions. At this time, `HAUS` is just a representation of your contributions to DAOhaus. Thank you for contributing to the DAOhaus community and helping us build the future of DAOs!
 
 ### Building the Ownership Economy
 
-DAOhaus looks to curate a community in which product is prioritized over profit. Any and all revenue collected by DAOhaus (either form holding `HAUS` or from contributions) should look to be allocated to value-added initiatives in the form of proposals.
+DAOhaus looks to curate a community in which product is prioritized over profit. Any and all revenue sent to HausDAO should be allocated to initiatives that support the community. If you want to go fast go alone, if you want to go far go together.
 
 While pioneered by a small team, the key contributors to DAOhaus are always meant to evolve. If successful, the DAOhaus DAO members of 5 years will look exponentially different from the DAOhaus DAO members of today.
 
@@ -43,103 +41,187 @@ To join the conversation, visit the [DAOhaus Discord](https://discord.gg/nevkB8U
 
 ## Embark Bootstrap Campaign
 
-The role of the bootstrap campaign is to build a self sustainable product and distribute the future product governance `HAUS` token.
+The role of the bootstrap campaign is to build and support DAOhaus and it's community.
 
-### HausDAO Summoning Parameters
+This is a tentative plan of action, however, it is subject to change at any time.
 
-- **HausDAO**
-- Community governance of the DAOhaus ecosystem
-- Deposit token DAI
-- Period length (2hr period - 7200 seconds)
-- Voting (3days - 36 periods )
-- Grace (4day - 48 periods )
-- Deposit sponsor price (20 DAI)
-- Processing Reward price (5 DAI)
+### Summoning
 
-### Summon Phase
+The Summoning phase is when the HausDAO will be created.
+
+#### HausDAO Summoning Parameters
+
+- **Deposit token:** `DAI`.
+- **Deposit sponsor price:** 20 `DAI`.
+- **Processing Reward price:** 5 `DAI`.
+- **Period duration:** 2 hour period (7200 seconds).
+- **Voting duration:** 3 days (36 periods).
+- **Grace duration:** 4 days - (48 periods).
+
+> These parameters are required by an MolochV2 and their terminology is set by the [Moloch codebase](https://github.com/molochVentures/moloch).
 
 #### `HAUS` allocations
 
-- 5% distributed into vesting until bootstrap phase is done or 1 year for core team
-- 5-10% for stakeholder, HAUS tribute as funds are spent from DAO.
-- 1% reserved as user rebate for money spent on boosts
-- 84-89% held by Minion bank (DAO) to be allocated according to governance
+We are minting the total `HAUS` supply in the summoning phase and no more `HAUS` will ever be minted.
+
+- 5% of `HAUS` tokens will be distributed into a vesting contract. These tokens will be unlocked when the bootstraping phase is completed (all funds donated for the bootstraping phase are spent) or 1 year after the summoning of the DAO.
+- 5-10% of `HAUS` will be earmarked for bootsrapping contributors. As the DAO shareholders create funding proposals to bootstrap the DAOhaus platform, `HAUS` will be tributed into the HausDAO proportionally to the funds being allocated. Once all the funds are allocated the `HAUS` earmarked for bootstrapping contributors will be in the HausDAO at which point contributors can rage-quit their loot (or be rage-kicked) to redeem their proportional share of `HAUS` in the HausDAO GuildBank.
+- 1% of `HAUS` is reserved as user rebate. This will reward users on the HausDAO platform.
+- 84-89% of `HAUS` will be held by the HausDAO Minion to be allocated in the future according to the HausDAO community.
 
 #### Initiation
 
-- Core contributors will all receive one share in the DAO to ratify this document. In doing so, core contributors are making an oath to uphold the core values of the DAO.
+**Core contributors will receive one DAO share to ratify this document. In doing so, core contributors are making an oath to uphold [the core values of the DAO](##Manifesto).**
 
 #### Summoners
 
-- Db 0xCED608Aa29bB92185D9b6340Adcbfa263DAe075b
-- Vg 0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9
-- Sk 0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf
-- Cp 0x5b93ff82faaf241c15997ea3975419dddd8362c5
-- Jw 0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e
+- **Db** `0xCED608Aa29bB92185D9b6340Adcbfa263DAe075b`
+- **Vg** `0xd26a3f686d43f2a62ba9eae2ff77e9f516d945b9`
+- **Sk** `0x83ab8e31df35aa3281d630529c6f4bf5ac7f7abf`
+- **Cp** `0x5b93ff82faaf241c15997ea3975419dddd8362c5`
+- **Jw** `0x6dc43be93a8b5fd37dc16f24872babc6da5e5e3e`
 
-### Manifestation (Primary Fundraise Phase)
+### Manifestation Phase
 
-#### DAO share allocation
+During the Manifestation phase:
 
-- 90% loot (stakeholders)
-- 10% governance shares (core contributors)
-- 2% not assigned yet
-- Only member proposals are made during raise period
-- Stakeholder will contribute primary funds in exchange for Loot Shares (non-voting shares)
-- Contributor share purchase rate is set
-- Governance shares are distributed to core contributors
-- HAUS tokens deposited to Minion
-- LOOT rate 2DAI
+- Only member proposals will be made.
+- Contributors can contribute `DAI` in exchange for `Loot` (non-voting shares).
+- The `Loot` purchase rate is fixed for all parties at a rate of 2 `DAI` for 1 `Loot`.
+- `Shares` will be distributed to contributors.
+- `HAUS` tokens will be created and given to the HausDAO Minion.
 
-### Fabrication (Build Phase)
+#### HausDAO share allocation
 
-#### Transmutation (Funding proposals)
+- 90% `Loot` (non-voting tokens with a proportional claim on the GuildBank).
+- 10% `Shares` (voting tokens with a proportional claim on the GuildBank).
 
-- A funding proposal can be made against primary funds only when an equal tribute of HAUS tokens at set rate is made through transmutation.
-- Funding proposals can only be made from the transmutation vault
-- Funding proposals of primary funds can be a max of 25% of total raise per month. (4mo minimum) starting date from when first prop is made
+### Fabrication
 
-#### Devotion (Contributor Share Purchases)
+The Fabrication phase is when we start work on DAOhaus platform improvements.
+
+#### Transmutation
+
+Transmutation is a contract that enables and enforces the process for HausDAO funding proposals.
+
+- Funding proposals against the GuildBank tokens can only be made through the Transmutation contract to ensure the correct amount of `HAUS` tokens are added to the GuildBank in exchange.
+- Funding proposals can only be made from the Transmutation vault.
+- Funding proposals cannot be more than 25% of the initial GuildBank holdings per month.
+
+### Devotion
+
+Devotion is the building phase when contributors can earn `DAI` and `Shares` for contributing to DAOhaus.
 
 - Contributors have the option to purchase more DAO shares based on work done (at 10% ratio of funds spent).
 - This event happens on an ongoing basis as DAO funds are spent by contributors.
-- Contributors can purchase more DAO shares by depositing funds paid for work back into the DAO.
+- Contributors can purchase more DAO shares by creating a proposal to deposit 10% of funds paid for work back into the DAO and requesting shares at the rate of 2 `DAI` per share.
 
-#### Denouement (end of build phase and end of campaign)
+> Example: if you earn 1000 `DAI` from contributing to DAOhaus you can then submit a DAO proposal to spent 100 `DAI` to buy 50 `Shares`.
+
+We will reward and prioritize the following contributions (in descending order):
+
+- Contributors in hardcore sprint modes.
+- Ownership over outcomes.
+- Leading and driving areas of the project.
+- High priority tasks and missions.
+- Normal contributions.
+- Casual contributions.
+
+### Denouement
+
+Denouement is the end of the build phase and the end of the campaign.
 
 - When all primary funds have been spent the bootstrap round is finished.
 - At this point, all contributor purchases will be paused.
-- Lootholders will be asked to Ragequit, giving them pro-rata allocation of the next round.
-- GuildKick proposals will be used for any straggler LOOT holders, giving them their HAUS but preventing them from joining future rounds.
-- Vested initial tokens will be distributed
-- Core contributors will be given the option to purchase more governance shares prior to the following round.
+- `Loot` holders will be asked to rage-quit to redeem their proportional amount of `HAUS` tokens from the GuildBank.
+- GuildKick proposals will be used to remove any remaining `LOOT` holders, giving them their `HAUS` but preventing them from continuing to contribute to DAOhaus.
+- `HAUS` locked up int the vesting contract will be distributed (see [Summoning Phase](###Summoning-phase) for more details).
+- Contributors who were not GuildKicked, did not rage-quit `Shares` and/or `Loot` to then make unauthorized trades on secondary markets, and/or did not acquire `Shares` and/or `Loot` from an unauthorized trade will be given the option to engage in the future growth and development of DAOhaus.
 
-#### Rage Quitting
+### Rage Quitting
 
-- At anytime a stakeholder or contributor can rage quit
-- Ragequiters should not put on secondary market until round is finished (we know who you are)
-- Stakeholder can execute governance through ragequit and remove their primary funds early
-  - Stakeholder should ragequit if project is not meeting milestones or completing milestones as described in funding proposal
-  - Stakeholder should ragequit if a primary funding proposal is sponsored outside of what has been described as valid proposals above.
-  - Stakeholder should ragequit if a proposal is made to move HAUS tokens from HAUS bank outside of transmutation
+- At anytime any contributor can rage-quit to receive a proportional share of the GuildBank assets.
+- Rage-quiters should not put `HAUS` on a secondary market. Doing so will invalidate your ability to continue contributing to HausDAO.
+- If adverse immaterial events require that a contributor sell their `Shares` or `Loot` they can submit a proposal to sell them to another HausDAO Member or another address approved by HausDAO members. This would require two proposals: one to rage-quit current `Shares` and/or `Loot` and one to mint new `Shares` and/or `Loot` for a current contributor. This would require two HausDAO votes to approve.
+- Contributors can execute governance via Rage-quit to remove their donations at any time if they are not satisfied with the direction of HausDAO.
+  - Contributors should Rage-quit if contributors are not completing the initiatives described in funding proposals.
+  - Contributors should Rage-quit if a funding proposal is sponsored and approved outside of the scope of valid funding proposals (see [Fabrication phase](###Fabrication) for details).
+  - Contributor should Rage-quit if a proposal is made to move `HAUS` tokens from `HAUS` bank outside of Transmutation.
+
+While there are no guaranteed outcomes HausDAO contributors, the balances of power aim to incentivize all parties involved to execute on the HausDAO mission and goals.
+
+- `Loot` holders exercise governance via Rage-quit (can be a portion of shares to send a signal).
+- `Share` holders exercise governance via funding proposals (cannot be more than 25% of GuildBank per month).
+
+<br>
+
+## DAOhaus Disclaimer
+
+By joining or contributing to DAOhaus/HausDAO you agree to the following terms:
+
+### Experimental Project - Use at your Own Risk
+
+DAOhaus/HausDAO is an experimental project. Any or all code associated with DAOhaus, HausDAO, and associated token or governance smart contracts may be unaudited and as such are not guaranteed to function as promised.
+
+User shall defend, indemnify, and hold harmless DAOhaus/HausDAO against any third party claim, suit, or proceeding arising out of or related to the use of DAOhaus/HausDAO software.
+
+DAOhaus tries to provide the best services we are able, but we cannot guarantee that things will always run as we had intended it to. Use of DAOhaus and HausDAO is “as is” and “as available”, without any warranty of any kind. Your use of DAOHaus, HausDAO, and the `HAUS` token is solely at your own risk. No advice or information, oral or written, that you obtain from the use of our services shall constitute any warranty.
+
+### Dispute Resolution
+
+If you no longer wish to support DAOhaus, you may Rage-quit at any time. Once you Rage-quit, you will receive an amount of `DAI` proportional to your remaining contribution plus `HAUS` tokens for any portion of your original contribution that has been spent by the DAO at the time of your Rage-quit. By joining HausDAO you agree that Rage-quitting shall be the only recourse available to you should you have any dispute with HausDAO or the members of HausDAO.
+
+### DAOhaus Intellectual Property
+
+The DAOhaus name and logo are protected by copyright, database, registered and unregistered trademark, patent and other intellectual property laws. You may not use any of DAOhaus or HausDAO trademarks, logos, domain names or other distinctive brand features without prior authorization. Please email us if you would like to use any of the above [info@daohaus.club](info@daohaus.club).
+
+All of the DAOhaus code and GitHub repositories are licensed under the MIT license, which can be found here: [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
+
+### Terms of Service
+
+By engaging with the HausDAO you agree to the Terms of Service in [this doc](https://hackmd.io/mQU3jpMBT62wpxajp65Glg).
+
+### Ratification and Amendments
+
+This document will be ratified by the HausDAO and pinned to [IPFS](https://ipfs.io/). Minor changes may be made on GitHub in the DAOhaus manifesto repo. Major changes will require a HausDAO proposal where a new version of this documented is pinned to IPFS and linked to in the DAO proposal and the DAO then approves that proposal to ratify it as the latest version of this document.
 
 <br>
 
 ## Glossary
 
-- **Primary funds** - the primary token used to fund project (DAI).
-- **HAUS** - future product governance token.
-- **HAUS bank** - bank of HAUS tokens outside of dao.
-- **Stakeholder** - primary funder of project, governance through loot ragequit.
-- **Contributor** - Product team that will be building product, governance through shares.
-- **Core contributor** - initial contributor members,
-- **Minion** - A contract that acts as a registered agent for the dao.
-- **Transmutation** - the process of spending primary funds and replacing them with HAUS.
+- **HausDAO:** - The DAO that is managing the [Embark Bootstrapping Campaign](##Embark-Bootstrap-Campaign).
+- **DAOhaus:** - The software platform that the HausDAO is contributing to which can be found at [https://daohaus.club/](https://daohaus.club/).
+- **`HAUS`** - A token that represents contributions to the DAOhaus platform.
+- **`DAI`** - A token that which can be found [here](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f).
+- **HAUSbank** - A bank of `HAUS` tokens in a contract outside of the HausDAO (aka not in the GuildBank).
+- **GuildBank** - The HausDAO token vault.
+- **Minion** - A contract that allows the HausDAO to call external contracts (such as Transmutation).
+- **Transmutation** - A contract that encodes and enforces an exchange of GuildBank tokens (in this case `DAI`) for tokens in the Transmutation contract (in this cause `HAUS`). Minion can submit a proposal to the HausDAO to initiate a Transmutation exchange.
+- **Contributor** - Anyone who contributes time, capital, or labor to the development of DAOhaus.
+- **`Loot`** - Non-voting shares with a proportional claim on the GuildBank.
+- **`Shares`** - Voting shares with a proportional claim on the GuildBank.
+- **Rage-quit** - A function that `Loot` or `Share` holders can call to burn their `Loot` or `Shares` in exchange for a proportional amount of the whitelisted tokens in the HausDAO GuildBank.
+- **Rage-kick** - A function that `Share` holders can call to burn the `Loot` or `Shares` of another in exchange for giving them a proportional amount of the whitelisted tokens in the HausDAO GuildBank.
 
 <br>
 
-> \*\*This document is to be ratified by the dao and pinned to IPFS. any changes will go through another proposal
+## Related Code
+
+![HausDAO Diagram](https://i.imgur.com/j8lzI5J.png)
+
+HausDAO will utilize the following contracts for it's construction:
+
+- [Moloch V2](https://github.com/MolochVentures/moloch) - A DAO with non-transferable rights that's optimized for grants and investments.
+- [Minion](https://github.com/raid-guild/moloch-minion) - A smart account that is controlled by Moloch votes.
+- [Transmutation](https://github.com/raid-guild/moloch-contract-extensions/blob/master/contracts/vaults/Transmutation.sol) - A Minion extension that allows for the trustless exchange of an external (revenue) token for GuildBank assets (`WETH`). This allows members to pool funds in a DAO, rage-quit capital that isn't committed/drawn-down, but also receive rage-quittable tokens when capital is drawn down. This creates a win/win where members either get their cash back or a claim on an external token in exchange for their cash.
+- [Vesting](TBD) - Locks tokens and releases them based on a time delay and/or DAO vote.
+
+The HausDAO will be a Moloch V2. The Moloch V2 code is audited and battle tested. The HausDAO Moloch V2 GuildBank will hold the donations from contributors.
+
+The Minion, Transmutation, and Vesting contracts are not audited. Minion is only responsible for calling the Transmutation contract. Transmutation is responsible for holding the `HAUS` tokens and submitting proposals to the Moloch V2. The Vesting contract will only hold `HAUS` tokens.
+
+If the Minion, Transmutation, and/or Vesting contracts are compromised the tokens in the HausDAO GuildBank will not be affected. `Share` and `Loot` holders will still be able to rage-quit to redeem a proportional share of the GuildBank. In the event that a contract is compromised we can redeploy the `HAUS` tokens and award everyone their due amount. The only GuildBank tokens that might be at risk would be those that the Minion is requesting in a single proposal.
 
 <br>
 
-![DAOhaus footer stuff](https://raw.githubusercontent.com/odyssy-automaton/daohaus-web/develop/src/assets/daohaus__seciton5-bg-shapes.png)
+![DAOhaus Splash](https://raw.githubusercontent.com/odyssy-automaton/daohaus-web/develop/src/assets/daohaus__hero--falling.png)
