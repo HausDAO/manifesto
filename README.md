@@ -2,6 +2,8 @@
 
 > DAOs in the haus!
 
+<br>
+
 ![DAOhaus](https://i.imgur.com/NRJEMIe.png)
 
 <br>
