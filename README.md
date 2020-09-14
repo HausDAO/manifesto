@@ -219,7 +219,7 @@ HausDAO will utilize the following contracts for it's construction:
 
 - [Moloch V2](https://github.com/MolochVentures/moloch) - A DAO with non-transferable rights that's optimized for grants and investments.
 - [Minion](https://github.com/raid-guild/moloch-minion) - A smart account that is controlled by Moloch votes.
-- [Transmutation](https://github.com/raid-guild/moloch-contract-extensions/blob/master/contracts/vaults/Transmutation.sol) - A Minion extension that allows for the trustless exchange of an external (revenue) token for GuildBank assets (`WETH`). This allows members to pool funds in a DAO, rage-quit capital that isn't committed/drawn-down, but also receive rage-quittable tokens when capital is drawn down. This creates a win/win where members either get their cash back or a claim on an external token in exchange for their cash.
+- [Transmutation](https://github.com/raid-guild/moloch-contract-extensions/blob/master/contracts/vaults/Transmutation.sol) - A Minion extension that allows for the trustless exchange of an external (revenue) token for GuildBank assets (`WXDAI`). This allows members to pool funds in a DAO, rage-quit capital that isn't committed/drawn-down, but also receive rage-quittable tokens when capital is drawn down. This creates a win/win where members either get their cash back or a claim on an external token in exchange for their cash.
 - [Vesting](TBD) - Locks tokens and releases them based on a time delay and/or DAO vote.
 
 The HausDAO will be a Moloch V2. The Moloch V2 code is audited and battle tested. The HausDAO Moloch V2 GuildBank will hold the donations from contributors.
