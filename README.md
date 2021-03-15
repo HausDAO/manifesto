@@ -47,7 +47,7 @@ To join the conversation, visit the [DAOhaus Discord](https://discord.gg/nevkB8U
 
 ## Embark Bootstrap Campaign
 
-The role of the bootstrap campaign is to build and support DAOhaus and it's community.
+The role of the bootstrap campaign is to build and support DAOhaus and its community.
 
 This is a tentative plan of action, however, it is subject to change at any time.
 
@@ -72,7 +72,7 @@ We are minting the total `HAUS` supply in the summoning phase and no more `HAUS`
 
 - 5% of `HAUS` tokens will be distributed into a vesting contract. These tokens will be unlocked when the bootstraping phase is completed (all funds donated for the bootstraping phase are spent) or 1 year after the summoning of the DAO.
 - 5-10% of `HAUS` will be earmarked for bootsrapping contributors. As the DAO shareholders create funding proposals to bootstrap the DAOhaus platform, `HAUS` will be tributed into the HausDAO proportionally to the funds being allocated. Once all the funds are allocated the `HAUS` earmarked for bootstrapping contributors will be in the HausDAO at which point contributors can rage-quit their loot (or be rage-kicked) to redeem their proportional share of `HAUS` in the HausDAO GuildBank.
-- 1% of `HAUS` is reserved as user rebate. This will reward users on the HausDAO platform.
+- 1% of `HAUS` is reserved as a user rebate. This will reward users on the HausDAO platform.
 - 84-89% of `HAUS` will be held by the HausDAO Minion to be allocated in the future according to the HausDAO community.
 
 #### Initiation
@@ -122,7 +122,7 @@ Devotion is the building phase when contributors can earn `DAI` and `Shares` for
 - This event happens on an ongoing basis as DAO funds are spent by contributors.
 - Contributors can purchase more DAO shares by creating a proposal to deposit 10% of funds paid for work back into the DAO and requesting shares at the rate of 2 `DAI` per share.
 
-> Example: if you earn 1000 `DAI` from contributing to DAOhaus you can then submit a DAO proposal to spent 100 `DAI` to buy 50 `Shares`.
+> Example: if you earn 1000 `DAI` from contributing to DAOhaus you can then submit a DAO proposal to spend 100 `DAI` to buy 50 `Shares`.
 
 We will reward and prioritize the following contributions (in descending order):
 
@@ -141,12 +141,12 @@ Denouement is the end of the build phase and the end of the campaign.
 - At this point, all contributor purchases will be paused.
 - `Loot` holders will be asked to rage-quit to redeem their proportional amount of `HAUS` tokens from the GuildBank.
 - GuildKick proposals will be used to remove any remaining `LOOT` holders, giving them their `HAUS` but preventing them from continuing to contribute to DAOhaus.
-- `HAUS` locked up int the vesting contract will be distributed (see [Summoning Phase](###Summoning-phase) for more details).
+- `HAUS` locked up in the vesting contract will be distributed (see [Summoning Phase](###Summoning-phase) for more details).
 - Contributors who were not GuildKicked, did not rage-quit `Shares` and/or `Loot` to then make unauthorized trades on secondary markets, and/or did not acquire `Shares` and/or `Loot` from an unauthorized trade will be given the option to engage in the future growth and development of DAOhaus.
 
 ### Rage Quitting
 
-- At anytime any contributor can rage-quit to receive a proportional share of the GuildBank assets.
+- At any time any contributor can rage-quit to receive a proportional share of the GuildBank assets.
 - Rage-quiters should not put `HAUS` on a secondary market. Doing so will invalidate your ability to continue contributing to HausDAO.
 - If adverse immaterial events require that a contributor sell their `Shares` or `Loot` they can submit a proposal to sell them to another HausDAO Member or another address approved by HausDAO members. This would require two proposals: one to rage-quit current `Shares` and/or `Loot` and one to mint new `Shares` and/or `Loot` for a current contributor. This would require two HausDAO votes to approve.
 - Contributors can execute governance via Rage-quit to remove their donations at any time if they are not satisfied with the direction of HausDAO.
@@ -154,7 +154,7 @@ Denouement is the end of the build phase and the end of the campaign.
   - Contributors should Rage-quit if a funding proposal is sponsored and approved outside of the scope of valid funding proposals (see [Fabrication phase](###Fabrication) for details).
   - Contributor should Rage-quit if a proposal is made to move `HAUS` tokens from `HAUS` bank outside of Transmutation.
 
-While there are no guaranteed outcomes HausDAO contributors, the balances of power aim to incentivize all parties involved to execute on the HausDAO mission and goals.
+While there are no guaranteed outcomes for HausDAO contributors, the balances of power aim to incentivize all parties involved to execute on the HausDAO mission and goals.
 
 - `Loot` holders exercise governance via Rage-quit (can be a portion of shares to send a signal).
 - `Share` holders exercise governance via funding proposals (cannot be more than 25% of GuildBank per month).
@@ -189,7 +189,7 @@ By engaging with the HausDAO you agree to the Terms of Service in [this doc](htt
 
 ### Ratification and Amendments
 
-This document will be ratified by the HausDAO and pinned to [IPFS](https://ipfs.io/). Minor changes may be made on GitHub in the DAOhaus manifesto repo. Major changes will require a HausDAO proposal where a new version of this documented is pinned to IPFS and linked to in the DAO proposal and the DAO then approves that proposal to ratify it as the latest version of this document.
+This document will be ratified by the HausDAO and pinned to [IPFS](https://ipfs.io/). Minor changes may be made on GitHub in the DAOhaus manifesto repo. Major changes will require a HausDAO proposal where a new version of this document is pinned to IPFS and linked to in the DAO proposal and the DAO then approves that proposal to ratify it as the latest version of this document.
 
 <br>
 
@@ -198,7 +198,7 @@ This document will be ratified by the HausDAO and pinned to [IPFS](https://ipfs.
 - **HausDAO:** - The DAO that is managing the [Embark Bootstrapping Campaign](##Embark-Bootstrap-Campaign).
 - **DAOhaus:** - The software platform that the HausDAO is contributing to which can be found at [https://daohaus.club/](https://daohaus.club/).
 - **`HAUS`** - A token that represents contributions to the DAOhaus platform.
-- **`DAI`** - A token that which can be found [here](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f).
+- **`DAI`** - A token which can be found [here](https://etherscan.io/token/0x6b175474e89094c44da98b954eedeac495271d0f).
 - **HAUSbank** - A bank of `HAUS` tokens in a contract outside of the HausDAO (aka not in the GuildBank).
 - **GuildBank** - The HausDAO token vault.
 - **Minion** - A contract that allows the HausDAO to call external contracts (such as Transmutation).
