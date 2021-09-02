@@ -35,7 +35,7 @@ Education is better than abstraction
 Work streams! let’s do more of those\
 Cores should scale and fraction\
 Small working groups work!\
-bottom up with larger collectives and even larger federations\
+Bottom up with larger collectives and even larger federations\
 Multiple treasuries are cool\
 Ingroups are inevitable but there must be a path for edges to enter cores\
 Manage equilibrium of ingroup momentum and edge community engagement
