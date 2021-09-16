@@ -29,6 +29,7 @@ Recognize each other\
 Diversity is a priority\
 Collaboration is a priority\
 Direct contribution is better than economic contribution but economic contribution is still great
+Moloch demands sacrifice
 
 Education is better than abstraction
 
